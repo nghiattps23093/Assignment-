@@ -1,0 +1,92 @@
+.school {
+    max-width: 1200px;
+    padding: 0;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+header {
+    height: 100px;
+    background-image: url("img/hinh1.jpg");
+    background-size: 100% 100%;
+    padding-bottom: 25%;
+}
+
+nav {
+    line-height: 40px;
+    background-color: white;
+    color: white;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+.input {
+    color: black;
+    text-align: right;
+}
+
+article {
+    float: left;
+    min-height: 400px;
+    width: 40%;
+    background-color: white;
+}
+
+aside {
+    min-height: 400px;
+    width:60%;
+    background-color: white;
+    float: right;
+}
+
+aside>img {
+    width: 30px;    
+    height: 30px;
+}
+
+footer {
+    background-color: greenyellow;
+    float: none;
+}
+
+.introduce {
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    position: relative;
+}
+
+.main {
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    position: relative;
+}
+
+.posts {
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    position: relative;
+}
+
+.posts>img {
+    text-align: center;
+}
+
+.photo {
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray;
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+}
+
+
